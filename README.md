@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/nick-colon/">Nick Colon</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/nick-colon/">Nick Colon</a>'s Personal Computer Science Portfolio 🔐
 
 I’m a computer science student with a strong interest in cybersecurity, and this is where I share what I’ve been learning. These projects focus on things like vulnerability management and threat detection — all hands-on work that’s helping me understand how to protect systems and respond to risks. I’m actively building my skills and excited to keep pushing further into the field.
 
