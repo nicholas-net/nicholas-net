@@ -1,6 +1,6 @@
-# <a href="https://www.linkedin.com/in/nick-colon/">Nick Colon</a>'s Personal Computer Science Portfolio 🔐
+# <a href="https://www.linkedin.com/in/nick-colon/">Nick Colon</a>'s Personal Projects Portfolio 🔥
 
-I’m a computer science student with a strong interest in cybersecurity, and this is where I share what I’ve been learning. These projects focus on things like vulnerability management and threat detection — all hands-on work that’s helping me understand how to protect systems and respond to risks. I’m actively building my skills and excited to keep pushing further into the field.
+"I'm a Computer Science student, and honestly, I'm just really into learning as much as I can. What truly clicks for me is backend programming – I just find it super cool how all the magic happens behind the scenes. Here is a collection of personal projects, because it's how I learn new stuff and have fun doing it."
 
 
 ## ⚠️ Vulnerability Management Projects
