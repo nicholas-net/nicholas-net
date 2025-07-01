@@ -3,8 +3,8 @@
 I'm a Computer Science student, with a massive desire to break it into the industry. I believe I am very charismatic, loyal, hardworker who would be valuable on any team. I'm still very much new at coding, but I put so much work in every day. Here is a collection of personal projects, because it's how I learn new stuff and been having fun doing it.
 
 
-- **[Dungeon Crawler](https://github.com/nicholas-net/dungeon-crawler)**
-- **[Delivery Driver Algorithm](https://github.com/nicholas-net/delivery_driver_project)**
+- **[Dungeon Crawler](https://github.com/nicholas-net/dungeon-crawler) 🧙**
+- **[Delivery Driver Algorithm](https://github.com/nicholas-net/delivery_driver_project) 📦**
 
 
 <hr/>
