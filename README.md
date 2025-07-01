@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/nick-colon/">Nick Colon</a>'s Personal Portfolio 🔥
 
-I'm a Computer Science student, and honestly, I'm just really into learning as much as I can. What truly clicks for me is backend programming – I just find it super cool how all the magic happens behind the scenes. Here is a collection of personal projects, because it's how I learn new stuff and have fun doing it.
+I'm a Computer Science student, with a massive desire to break it into the industry. I believe I am very charismatic, loyal, hardworker who would be valuable on any team. I'm still very much new at coding, but I put so much work in every day. Here is a collection of personal projects, because it's how I learn new stuff and been having fun doing it.
 
 
 - **[Dungeon Crawler](https://github.com/nicholas-net/dungeon-crawler)**
