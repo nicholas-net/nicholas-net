@@ -4,7 +4,9 @@ I'm a Computer Science student, with a massive desire to break it into the indus
 
 
 - **[Dungeon Crawler](https://github.com/nicholas-net/dungeon-crawler) 🧙**
+- **[Ethereum Price Signal Alert](https://github.com/nicholas-net/ethereum-price-signal-bot) 🚨**
 - **[Delivery Driver Algorithm](https://github.com/nicholas-net/delivery_driver_project) 📦**
+
 
 
 <hr/>
