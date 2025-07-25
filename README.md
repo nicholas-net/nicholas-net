@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/nick-colon/">Nick Colon</a>'s Personal Portfolio 🔥
 
-I'm a Computer Science student with a massive desire to break into the industry. I believe I am a very charismatic, loyal, hardworking person who would be valuable on any team. Every day, I'm putting in work to improve my problem-solving and development skills. Below are a collection of personal projects that I work on in my freetime to apply what I've been learning.
+I'm a Computer Science student with a massive desire to break into the industry. I believe I am a very charismatic, loyal, hardworking person who would be valuable on any team. Every day, I'm putting in work to improve my problem-solving and development skills. Below is a collection of personal projects that I work on in my free time to apply what I've been learning.
 
 
 - **[Dungeon Crawler](https://github.com/nicholas-net/dungeon-crawler) 🧙**
