@@ -2,8 +2,6 @@
 
 I'm a Computer Science student with a massive desire to break into the industry. I believe I am a very charismatic, loyal, hardworking person who would be valuable on any team. Every day, I'm putting in work to improve my problem-solving and development skills. Below is a collection of personal projects that I work on in my free time to apply what I've been learning.
 
-
-- **[Dungeon Crawler](https://github.com/nicholas-net/dungeon-crawler) 🧙**
 - **[Ethereum Price Signal Alert](https://github.com/nicholas-net/ethereum-price-signal-bot) 🚨**
 - **[Delivery Driver Algorithm](https://github.com/nicholas-net/delivery_driver_project) 📦**
 
