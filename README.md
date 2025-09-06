@@ -3,6 +3,7 @@
 I'm a Computer Science student with a massive desire to break into the industry. I believe I am a very charismatic, loyal, hardworking person who would be valuable on any team. Every day, I'm putting in work to improve my problem-solving and development skills. Below is a collection of personal projects that I work on in my free time to apply what I've been learning.
 
 - **[Ethereum Price Signal Alert](https://github.com/nicholas-net/ethereum-price-signal-bot) 🚨**
+- **[Travel Booking API](https://github.com/nicholas-net/VacationBookingBackend) ✈️**
 - **[Delivery Driver Algorithm](https://github.com/nicholas-net/delivery_driver_project) 📦**
 - **[Vulenerability Management Program](https://github.com/nicholas-net/vulnerability-management-program) ⚠️**
 
