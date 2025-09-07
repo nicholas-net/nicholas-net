@@ -4,6 +4,7 @@ I'm a Computer Science student with a massive desire to break into the industry.
 
 - **[Ethereum Price Signal Alert](https://github.com/nicholas-net/ethereum-price-signal-bot) 🚨**
 - **[Travel Booking API](https://github.com/nicholas-net/VacationBookingBackend) ✈️**
+- **[Physical Therapy Exercise Manager](https://github.com/nicholas-net/PatientExerciseManager/tree/main) **🇵 ☤ 🇹
 - **[Delivery Driver Algorithm](https://github.com/nicholas-net/delivery_driver_project) 📦**
 - **[Vulenerability Management Program](https://github.com/nicholas-net/vulnerability-management-program) ⚠️**
 
