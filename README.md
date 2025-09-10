@@ -6,7 +6,7 @@ I'm a Computer Science student with a massive desire to break into the industry.
 - **[Travel Booking API](https://github.com/nicholas-net/VacationBookingBackend) ✈️**
 - **[Delivery Driver Algorithm](https://github.com/nicholas-net/delivery_driver_project) 📦**
 - **[Vulenerability Management Program](https://github.com/nicholas-net/vulnerability-management-program) ⚠️**
-- - **[Physical Therapy Exercise Manager](https://github.com/nicholas-net/PatientExerciseManager/tree/main) 🇵 ☤ 🇹**
+- **[Physical Therapy Exercise Manager](https://github.com/nicholas-net/PatientExerciseManager/tree/main) 🇵 ☤ 🇹**
 
 
 
