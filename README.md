@@ -7,15 +7,16 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 
 - 🔭 I’m currently a Computer Science undergrad at Western Governors University.
 - 👯 I’m looking to collaborate on projects.
-- 📫 How to reach me:LinkedIn: https://www.linkedin.com/in/nick-colon
+- 📫 How to reach me: https://www.linkedin.com/in/nick-colon
 
-## Soft Skills
+## Recent Projects
 
-- **Problem-solving:** Strong analytical and critical thinking skills.
-- **Teamwork:** Effective communication and collaboration abilities.
-- **Self-motivated:** Quick learner with a growth mindset.
+### <a href="https://github.com/nicholas-net/delivery_driver_project">Postal Service Driving Simulation</a>
 
-## Technical Skills
+
+
+
+## Skills
 
 ```
 - Programming Languages:
@@ -36,4 +37,9 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 - Version Control:
   - Git
   - GitHub
+
+- Soft Skills:
+  - Problem-solving: Strong analytical and critical thinking skills
+  - Teamwork: Effective communication and collaboration abilities
+  - Self-motivated: Quick learner with a growth mindset
 ```
