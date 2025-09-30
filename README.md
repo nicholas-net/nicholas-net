@@ -1,25 +1,39 @@
-# <a href="https://www.linkedin.com/in/nick-colon/">Nick Colon</a>'s Personal Portfolio
+# Hello, I'm Nicholas! 👋
 
-I'm a Computer Science student with a massive desire to break into the industry. I believe I am a very charismatic, loyal, hardworking person who would be valuable on any team. Every day, I'm putting in work to improve my problem-solving and development skills. Below is a collection of personal projects that I work on in my free time to apply what I've been learning.
-
-- **[Ethereum Price Signal Alert](https://github.com/nicholas-net/ethereum-price-signal-bot) 🚨**
-- **[Travel Booking API](https://github.com/nicholas-net/VacationBookingBackend) ✈️**
-- **[Delivery Driver Algorithm](https://github.com/nicholas-net/delivery_driver_project) 📦**
-- **[Vulenerability Management Program](https://github.com/nicholas-net/vulnerability-management-program) ⚠️**
-- **[Physical Therapy Exercise Manager](https://github.com/nicholas-net/PatientExerciseManager/tree/main) 🇵 ☤ 🇹**
+I'm a highly motivated Computer Science student eager to kick-start my career in software development. With a strong academic foundation and a passion for technology, I am excited to contribute my skills to innovative projects and learn from experienced professionals.
 
 
+## About Me
 
-<hr/>
+- 🔭 I’m currently a Computer Science undergrad at Western Governors University.
+- 👯 I’m looking to collaborate on projects.
+- 📫 How to reach me:linkedin:https://www.linkedin.com/in/nick-colon
 
-## Connect With Me
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Soft Skills
 
-[instagram]: https://www.instagram.com/_nickcolon
-[linkedin]: https://linkedin.com/in/nick-colon
+- **Problem-solving:** Strong analytical and critical thinking skills.
+- **Teamwork:** Effective communication and collaboration abilities.
+- **Self-motivated:** Quick learner with a growth mindset.
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+## Technical Skills
+
+```
+- Programming Languages:
+  - Python
+  - Java
+  - C++
+
+- Frameworks/Tools:
+  - Spring
+  - Rest APIs
+  - Maven
+  - Azure
+
+- Databases:
+  - Postgresql
+  - MySQL
+
+- Version Control:
+  - Git
+  - GitHub
+```
