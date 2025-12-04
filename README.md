@@ -14,7 +14,7 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 ### <a href="https://github.com/nicholas-net/delivery_driver_project">Postal Service Driving Simulation (Python)</a>
 ### <a href="https://github.com/nicholas-net/ethereum-price-signal-bot">Ethereum Price Alert Bot (Python)</a>
 ### <a href="https://github.com/nicholas-net/VacationBookingBackend">Travel Agency Backend API (Java, Spring, MySQL)</a>
-### <a href="https://github.com/nicholas-net/physioportal">PhysioPortal 🚧</a>
+### <a href="https://github.com/nicholas-net/AdvancedJava">AdvancedJava</a>
 
 
 
