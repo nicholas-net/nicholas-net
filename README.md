@@ -26,7 +26,6 @@ Computer Science student with a strong academic foundation and a passion for tec
 - Programming Languages:
   - Python
   - Java
-  - C++
 
 - Frameworks/Tools:
   - Spring
