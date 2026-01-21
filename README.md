@@ -1,6 +1,6 @@
 # Hello, I'm Nicholas! 👋
 
-I'm a highly motivated Computer Science student eager to kick-start my career in software development. With a strong academic foundation and a passion for technology, I am excited to contribute my skills to innovative projects and learn from experienced professionals.
+Computer Science student with a strong academic foundation and a passion for technology. I am excited to contribute my skills to innovative projects and learn from experienced professionals.
 
 
 ## About Me
