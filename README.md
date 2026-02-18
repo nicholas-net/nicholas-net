@@ -8,12 +8,7 @@ Computer Science student with a strong academic foundation and a passion for Inf
 - 🔭 I’m currently a Computer Science undergrad at Western Governors University.
 - 📫 How to reach me: https://www.linkedin.com/in/nick-colon
 
-## Recent Projects
-
-### <a href="https://github.com/nicholas-net/delivery_driver_project">Postal Service Driving Simulation (Python)</a>
-### <a href="https://github.com/nicholas-net/ethereum-price-signal-bot">Ethereum Price Alert Bot (Python)</a>
-### <a href="https://github.com/nicholas-net/VacationBookingBackend">Travel Agency Backend API (Java, Spring, MySQL)</a>
-### <a href="https://github.com/nicholas-net/AdvancedJava">AdvancedJava</a>
+## Vulnerability Management Program Implementation
 
 
 
