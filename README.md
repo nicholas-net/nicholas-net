@@ -1,12 +1,11 @@
 # Hello, I'm Nicholas! 👋
 
-Computer Science student with a strong academic foundation and a passion for technology. I am excited to contribute my skills to innovative projects and learn from experienced professionals.
+Computer Science student with a strong academic foundation and a passion for Information Technology and Cybersecurity
 
 
 ## About Me
 
 - 🔭 I’m currently a Computer Science undergrad at Western Governors University.
-- 👯 I’m looking to collaborate on projects.
 - 📫 How to reach me: https://www.linkedin.com/in/nick-colon
 
 ## Recent Projects
