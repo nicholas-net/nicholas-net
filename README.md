@@ -1,6 +1,6 @@
 # Nicholas Colon's IT and Cybersecurity Portfolio! 👋
 
-Computer Science student with a strong academic foundation and a passion for Information Technology and Cybersecurity
+Computer Science student with a strong academic foundation and a passion for Information Technology and Cybersecurity.
 
 
 ## About Me
