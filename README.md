@@ -16,6 +16,14 @@ Computer Science student with a strong academic foundation and a passion for Inf
   
 <b/>
 
+## Security Operations and Threat Hunting 
+<b>
+  <ul>
+    <li><a href="https://github.com/nicholas-net/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor</a></li>
+  </ul>
+  
+<b/>
+
 
 
 ## Skills
