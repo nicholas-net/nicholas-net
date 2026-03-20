@@ -8,6 +8,15 @@ Computer Science student with a strong academic foundation and a passion for Inf
 - 🔭 I’m currently a Computer Science undergrad at Western Governors University.
 - 📫 How to reach me: https://www.linkedin.com/in/nick-colon
 
+## </>Coding Projects
+<b>
+  <ul>
+    <li><a href="https://github.com/nicholas-net/MQTT-Pipeline">MQTT Pipeline</a></li>
+    <li><a href="https://github.com/nicholas-net/STIG-Remediations">STIG Remediations</a></li>
+  </ul>
+  
+<b/>
+
 ## ⚠️Vulnerability Management Program Implementation
 <b>
   <ul>
@@ -20,9 +29,7 @@ Computer Science student with a strong academic foundation and a passion for Inf
 <b>
   <ul>
     <li><a href="https://github.com/nicholas-net/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor</a></li>
-    <li><a href="https://github.com/nicholas-net/STIG-Remediations">STIG Remediations</a></li>
   </ul>
-  
 <b/>
 
 
