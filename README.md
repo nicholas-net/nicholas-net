@@ -54,7 +54,6 @@ Computer Science student with a strong academic foundation and a passion for Inf
 
 - Version Control:
   - Git
-  - GitHub
 
 - Soft Skills:
   - Problem-solving: Strong analytical and critical thinking skills
