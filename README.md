@@ -39,7 +39,7 @@ Computer Science student with a strong academic foundation and a passion for Inf
 ```
 - Programming Languages:
   - Python
-  - Powershell
+  - PowerShell
   - Java
 
 - Frameworks/Tools:
