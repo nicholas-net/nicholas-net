@@ -29,6 +29,7 @@ Computer Science student with a strong academic foundation and a passion for Inf
 <b>
   <ul>
     <li><a href="https://github.com/nicholas-net/Threat-Hunting-Scenario-Tor">Threat Hunting Scenario: Tor</a></li>
+    <li><a href="https://github.com/nicholas-net/Threat-Hunting-Scenario-Source-Leak">Threat Hunting Scenario: Source Leak</a></li>
   </ul>
 <b/>
 
