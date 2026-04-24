@@ -17,10 +17,12 @@ Computer Science student with a strong academic foundation and a passion for Inf
   
 <b/>
 
-## ⚠️Vulnerability Management Program Implementation
+## ⚠️Security Assessments and Vulnerability Management
 <b>
   <ul>
     <li><a href="https://github.com/nicholas-net/vulnerability-management-program">Vulnerability Management Program Implementation</a></li>
+    <li><a href="https://github.com/nicholas-net/Botium-Toys-Security-Audit">Security Audit (Risk & Control Assessment)</a></li>
+    
   </ul>
   
 <b/>
