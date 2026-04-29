@@ -11,7 +11,7 @@ Computer Science student with a strong academic foundation and a passion for Inf
 ## </>Coding Projects
 <b>
   <ul>
-    <li><a href="https://github.com/nicholas-net/MQTTS-Pipeline">MQTTS Pipeline</a></li>
+    <li><a href="https://github.com/nicholas-net/MQTTS-Pipeline">MQTT Pipeline</a></li>
     <li><a href="https://github.com/nicholas-net/STIG-Remediations">STIG Remediations</a></li>
   </ul>
   
