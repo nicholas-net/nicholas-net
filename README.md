@@ -20,11 +20,9 @@ Computer Science student with a strong academic foundation and a passion for Inf
 ## ⚠️Security Assessments and Vulnerability Management
 <b>
   <ul>
-    <li><a href="https://github.com/nicholas-net/vulnerability-management-program">Vulnerability Management Program Implementation</a></li>
-    <li><a href="https://github.com/nicholas-net/cyber-portfolio/blob/main/Incident%20Report/Report_4/Botium%20Toys%3A%20Controls%20%26%20Compliance%20Audit.pdf">Security Audit (Risk & Control Assessment)</a></li>
     <li><a href="https://github.com/nicholas-net/cyber-portfolio/tree/main/Incident%20Report">Incident Reports</a></li>
-    
-    
+    <li><a href="https://github.com/nicholas-net/vulnerability-management-program">Vulnerability Management Program Implementation</a></li>
+    <li><a href="https://github.com/nicholas-net/cyber-portfolio/blob/main/Incident%20Report/Report_4/Botium%20Toys%3A%20Controls%20%26%20Compliance%20Audit.pdf">Security Audit (Risk & Control Assessment)</a></li>    
   </ul>
   
 <b/>
