@@ -21,7 +21,7 @@ Computer Science student with a strong academic foundation and a passion for Inf
 <b>
   <ul>
     <li><a href="https://github.com/nicholas-net/vulnerability-management-program">Vulnerability Management Program Implementation</a></li>
-    <li><a href="https://github.com/nicholas-net/Botium-Toys-Security-Audit/blob/main/Botium%20Toys%3A%20Controls%20%26%20Compliance%20Audit.pdf">Security Audit (Risk & Control Assessment)</a></li>
+    <li><a href="https://github.com/nicholas-net/cyber-portfolio/blob/main/Incident%20Report/Report_4/Botium%20Toys%3A%20Controls%20%26%20Compliance%20Audit.pdf">Security Audit (Risk & Control Assessment)</a></li>
     <li><a href="https://github.com/nicholas-net/cyber-portfolio/blob/main/Incident%20Report/Report_1/Network%20Traffic%20Analysis.pdf">Incident Report: Network Traffic Analysis</a></li>
     <li><a href="https://github.com/nicholas-net/cyber-portfolio/blob/main/Incident%20Report/Report_2/Incident%20Report_%20Network%20Interruption.pdf">Incident Report: Network Interruption</a></li>
     
