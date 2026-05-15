@@ -36,7 +36,7 @@ Computer Science student with a strong academic foundation and a passion for Inf
   </ul>
 <b/>
 
-## 🧪Home Lab
+## 🧪Active Directory Lab
 <b>
   <ul>
     <li><a href="https://github.com/nicholas-net/active-directory-lab">Windows AD Lab</a></li>
